@@ -1,0 +1,1 @@
+remove follower ROI stuff, because there is blurring here
